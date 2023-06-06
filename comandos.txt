@@ -1,0 +1,18 @@
+ricckardo@Ricardos-Mac-mini 20230605-RicardoEmilioRoseroTejada % history
+  597  cd ..
+  598  git status
+  599  git add .
+  600  git commit -m "commit 02 de RicardoEmilioRoseroTejada"
+  601  git status
+  602  git branch
+  603  git push -u origin feature
+  604  git checkout main
+  605  git branch
+  606  ls
+  607  mv main.js resumenHardware.txt
+  608  ls
+  609  mv index.html resumenSoftware.txt
+  610  ls
+  611  nano resumenSoftware.txt
+  612  nano resumenHardware.txt
+ricckardo@Ricardos-Mac-mini 20230605-RicardoEmilioRoseroTejada % 
